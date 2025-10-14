@@ -1,0 +1,120 @@
+\documentclass[twocolumn]{article}
+
+\usepackage{import}
+\usepackage{xcolor}
+\usepackage{cancel}
+\usepackage{mathtools}
+
+% Colors
+
+\definecolor{yorhabg}{HTML}{131314}
+\definecolor{yorhafg}{HTML}{C9C7CD}
+\definecolor{yorhagrid}{HTML}{B5AF9C}
+\definecolor{mred}{HTML}{D67069}
+\definecolor{mblue}{HTML}{6887A1}
+
+\pagecolor{yorhabg}
+\color{yorhafg}
+
+%Importing the Preamble
+\import{./}{preamble.sty}
+
+% Removes padding above title
+\usepackage{titling}
+\setlength{\droptitle}{-10em}
+
+% Font package
+\usepackage[T1]{fontenc}
+
+\usepackage{fouriernc}
+
+\usepackage{sectsty}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[skins, most]{tcolorbox}
+
+\DeclareMathOperator{\sgn}{sgn}
+
+\usepackage{tikz}
+\usepackage{eso-pic}
+\usetikzlibrary{calc,shadows.blur}
+\usetikzlibrary{angles, quotes}
+\usetikzlibrary{3d}
+
+% Margins
+\topmargin=0in
+\evensidemargin=0in
+\oddsidemargin=0in
+\textwidth=6.5in
+\textheight=9.0in
+\headsep=0.25in
+
+\AtBeginEnvironment{tcolorbox}{\small}
+
+\newtcolorbox{imp}{enhanced,arc=0mm,colback=yorhabg,colframe=mred,leftrule=10mm,coltext=yorhafg,%
+overlay={\node[anchor=west,outer sep=2pt] at (frame.west) {\includegraphics[width=6mm]{images/imageb.png}}; }}
+
+\newtcolorbox{shortcut}{enhanced,arc=0mm,colback=yorhabg,colframe=mred,leftrule=10mm,coltext=yorhafg, coltitle=yorhabg, title=\texttt{Shortcut.},
+overlay={\node[anchor=west,outer sep=2pt] at (frame.west) {\includegraphics[width=6mm]{images/imageb.png}}; }}
+
+\newtcolorbox{question}{
+  enhanced,
+  colback=yorhabg,
+  colframe=mblue,
+  coltext=yorhafg,
+  coltitle=yorhabg,
+  attach boxed title to top left={yshift*=-\tcboxedtitleheight},
+  title=\texttt{Definition},
+  boxed title size=title,
+  boxed title style={%
+    rounded corners=northeast,
+    rounded corners=northwest,
+    colback=tcbcolframe,
+    boxrule=0pt,
+  },
+  underlay boxed title={%
+    \path[fill=tcbcolframe] (title.south west)--(title.south east)
+    to[out=0, in=180] ([xshift=5mm]title.east)--
+    (title.center-|frame.east)
+    [rounded corners=5pt] |-
+    (frame.north) -| cycle;
+  },
+}
+
+\newcommand\bb[1]{\textcolor{yorhafg}{\textbf{#1}}}
+
+\title{\textbf{Symmetric Encryption }}
+\author{ Raphael Pertler }
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section*{Encryption Schemes}
+
+\begin{question}
+  An Encryption Scheme is a tuple \( (X,K,E,D) \) with:
+  \begin{itemize}
+    \item \(X \subseteq \{0,1\}^*\) \ Plaintexts
+    \item \(K \subseteq \{0,1\}^*\) \ the finite Set of keys
+    \item \(E\) is a probabilistic encryption algorithm with \(x \in X ; k \in K\) as inputs, so that \(E (x,k) = y \in \{0,1\}^*\)
+    \item \(D\) is a deterministic decryption algo. with \(y \in \{0,1\}^* ; k \in K\) as inputs and returns \(x\in X\)
+  \end{itemize}
+  The Scheme has to satisfy the \\ "perfect correctness" property: \\
+  \(\forall x \in X ; k \in K : D(E(x,k)k) = x \) \\ \\
+
+  \(y := E(x,k)\) is called a cyphertext.
+
+  \(Y\) is the set of all possible cyphertexts. \\
+  \(Y \subseteq \{0,1\}^*\)
+\end{question}
+
+\begin{question}
+  Let \(X,K,E,D\) be an encryption scheme with deterministic encryption. \\ For \(
+  k \ in K \) the function: \\ \[ E(\cdot,k) : X \rightarrow Y ; x \rightarrow E(x,
+  k) \] Is called a Cipher.
+\end{question}
+\end{document}
