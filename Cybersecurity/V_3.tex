@@ -85,7 +85,7 @@ overlay={\node[anchor=west,outer sep=2pt] at (frame.west) {\includegraphics[widt
 
 \newcommand\bb[1]{\textcolor{yorhafg}{\textbf{#1}}}
 
-\title{\textbf{Symmetric Encryption }}
+\title{\textbf{Symmetric Encryption: Building secure Encryption Schemes }}
 \author{ Raphael Pertler }
 \date{\today}
 
@@ -93,43 +93,24 @@ overlay={\node[anchor=west,outer sep=2pt] at (frame.west) {\includegraphics[widt
 
 \maketitle
 
-\section*{Encryption Schemes}
+\section*{Stream Chiphers}
+\begin{question}
+  We know that a Vernam Key is secure if we use the key only once.\\
+  What if the Vernam key is infinite?\\
+  \\
+
+\end{question}
 
 \begin{question}
-  An Encryption Scheme is a tuple \( (X,K,E,D) \) with:
+  A Block Cipher is a tuple\\
+  (\( X = \{0,1\}^l \ ; K = \{0,1\}^s ; E ; D \)) \\
+  where: \\
   \begin{itemize}
-    \item \(X \subseteq \{0,1\}^*\) \ Plaintexts
-    \item \(K \subseteq \{0,1\}^*\) \ the finite Set of keys
-    \item \(E\) is a probabilistic encryption algorithm with \(x \in X ; k \in K\) as inputs, so that \(E (x,k) = y \in \{0,1\}^*\)
-    \item \(D\) is a deterministic decryption algo. with \(y \in \{0,1\}^* ; k \in K\) as inputs and returns \(x\in X\)
+    \item E deterministic encryption algorithm.
+    \item D deterministic decryption algorithm.
   \end{itemize}
-  The Scheme has to satisfy the \\ "perfect correctness" property: \\
-  \[\forall x \in X ; k \in K : D(E(x,k)k) = x \] \\ \\
 
-  \(y := E(x,k)\) is called a cyphertext.
-
-  \(Y\) is the set of all possible cyphertexts. \\
-  \(Y \subseteq \{0,1\}^*\)
+  It has to satisfy: \\
+  \[  \forall x \in \{0,1\}^l , \ k \in \{0,1\}^s \ : \ D(E(x,k)k) = x \]
 \end{question}
-
-\begin{question}
-  Let \(  X , K , E , D \)  be an encryption scheme with deterministic encryption. \\ For \(
-  k \ \in K \) the function: \\ \[ E(\cdot,k) : X \rightarrow Y ; x \rightarrow E(x,
-  k) \] Is called a Cipher.
-\end{question}
-\begin{imp}
-  Let \( X = \{a,b\} \) (Set of Plaintexts) \\
-  and \( K = \{k_1,k_2,k_3\} \) (Set of Keys) \\
-  With \( E(x,k) \) and \( D (y,k) \) defined by the table: \\
-  \begin{tabular}{c|c|c}
-    - & a & b \\
-    \hline
-    \(k_1\) & A & B \\
-    \hline
-    \(k_2\) & B & A \\
-    \hline
-    \(k_3\) & A & C
-  \end{tabular}
-\end{imp}
-
 \end{document}
