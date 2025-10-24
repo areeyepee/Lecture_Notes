@@ -1,0 +1,1107 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/nixos.org) (preloaded format=pdflatex 1980.1.1)  28 OCT 2025 15:20
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/raphael/Notes/Lecture_Notes/Introduction_AI/Assignment_1/main.tex
+(/home/raphael/Notes/Lecture_Notes/Introduction_AI/Assignment_1/main.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-06-09>
+(/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/base/article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/base/size10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/import/import.sty
+Package: import 2020/04/01  v 6.2
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/cancel/cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2024/10/04 v1.31 mathematical typesetting tools
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/tools/calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count283
+\calc@Bcount=\count284
+\calc@Adimen=\dimen149
+\calc@Bdimen=\dimen150
+\calc@Askip=\skip51
+\calc@Bskip=\skip52
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count285
+\calc@Cskip=\skip53
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2025/06/16 v2.17y AMS math features
+\@mathmargin=\skip54
+
+For additional information on amsmath, use the `?' option.
+(/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/amsmath/amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen151
+)) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen152
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count286
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count287
+\leftroot@=\count288
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count289
+\DOTSCASE@=\count290
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen153
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count291
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count292
+\dotsspace@=\muskip17
+\c@parentequation=\count293
+\dspbrk@lvl=\count294
+\tag@help=\toks19
+\row@=\count295
+\column@=\count296
+\maxfields@=\count297
+\andhelp@=\toks20
+\eqnshift@=\dimen154
+\alignsep@=\dimen155
+\tagshift@=\dimen156
+\tagwidth@=\dimen157
+\totwidth@=\dimen158
+\lineht@=\dimen159
+\@envbody=\toks21
+\multlinegap=\skip55
+\multlinetaggap=\skip56
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2949.
+LaTeX Info: Redefining \] on input line 2950.
+)
+\g_MT_multlinerow_int=\count298
+\l_MT_multwidth_dim=\dimen160
+\origjot=\skip57
+\l_MT_shortvdotswithinadjustabove_dim=\dimen161
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen162
+\l_MT_above_intertext_sep=\dimen163
+\l_MT_below_intertext_sep=\dimen164
+\l_MT_above_shortintertext_sep=\dimen165
+\l_MT_below_shortintertext_sep=\dimen166
+\xmathstrut@box=\box55
+\xmathstrut@dim=\dimen167
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip58
+\enit@outerparindent=\dimen168
+\enit@toks=\toks23
+\enit@inbox=\box56
+\enit@count@id=\count299
+\enitdp@description=\count300
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen169
+\lightrulewidth=\dimen170
+\cmidrulewidth=\dimen171
+\belowrulesep=\dimen172
+\belowbottomsep=\dimen173
+\aboverulesep=\dimen174
+\abovetopsep=\dimen175
+\cmidrulesep=\dimen176
+\cmidrulekern=\dimen177
+\defaultaddspace=\dimen178
+\@cmidla=\count301
+\@cmidlb=\count302
+\@aboverulesep=\dimen179
+\@belowrulesep=\dimen180
+\@thisruleclass=\count303
+\@lastruleclass=\count304
+\@thisrulewidth=\dimen181
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/tabularray/tabularray.sty
+Package: tabularray 2025-03-11 v2025A Typeset tabulars and arrays with LaTeX3
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/ninecolors/ninecolors.sty
+Package: ninecolors 2022-02-13 v2022D Select colors with proper color contrast
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/l3packages/xparse/xparse.sty (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-06-09 L3 programming layer (loader) 
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count305
+))
+Package: xparse 2024-08-16 L3 Experimental document command parser
+))
+\l__tblr_a_int=\count306
+\l__tblr_c_int=\count307
+\l__tblr_r_int=\count308
+\l__tblr_d_dim=\dimen182
+\l__tblr_h_dim=\dimen183
+\l__tblr_o_dim=\dimen184
+\l__tblr_p_dim=\dimen185
+\l__tblr_q_dim=\dimen186
+\l__tblr_r_dim=\dimen187
+\l__tblr_s_dim=\dimen188
+\l__tblr_t_dim=\dimen189
+\l__tblr_v_dim=\dimen190
+\l__tblr_w_dim=\dimen191
+\l__tblr_a_box=\box57
+\l__tblr_b_box=\box58
+\l__tblr_c_box=\box59
+\l__tblr_d_box=\box60
+\c@tblrcount=\count309
+\c@rownum=\count310
+\c@colnum=\count311
+\c@rowcount=\count312
+\c@colcount=\count313
+\abovesep=\dimen192
+\belowsep=\dimen193
+\leftsep=\dimen194
+\rightsep=\dimen195
+\gTblrLevelInt=\count314
+\g__tblr_data_row_key_count_int=\count315
+\g__tblr_data_column_key_count_int=\count316
+\g__tblr_data_cell_key_count_int=\count317
+\g__tblr_array_int=\count318
+\l__tblr_key_count_int=\count319
+\l__tblr_key_quotient_int=\count320
+\l__tblr_key_quotient_two_int=\count321
+\l__tblr_key_remainder_int=\count322
+\g__tblr_data_str_value_count_int=\count323
+\lTblrChildTotalInt=\count324
+\lTblrChildHtotalInt=\count325
+\lTblrChildVtotalInt=\count326
+\l__child_diff_h_int=\count327
+\l__child_diff_v_int=\count328
+\l__child_sign_h_int=\count329
+\l__child_sign_v_int=\count330
+\l__child_step_int=\count331
+\lTblrDefaultHruleWidthDim=\dimen196
+\lTblrDefaultVruleWidthDim=\dimen197
+\l__tblr_split_balance_int=\count332
+\l__tblr_strut_dp_dim=\dimen198
+\l__tblr_strut_ht_dim=\dimen199
+\g__tblr_cell_wd_dim=\dimen256
+\g__tblr_cell_ht_dim=\dimen257
+\g__tblr_cell_head_dim=\dimen258
+\g__tblr_cell_foot_dim=\dimen259
+\l__tblr_measured_cell_box=\box61
+\g__tblr_last_box=\box62
+\l__tblr_temp_box=\box63
+\l__tblr_column_target_dim=\dimen260
+\l__tblr_hfuzz_dim=\dimen261
+\l__tblr_caption_box=\box64
+\l__tblr_caption_left_box=\box65
+\lTblrRowHeadInt=\count333
+\lTblrRowFootInt=\count334
+\l__tblr_row_head_box=\box66
+\l__tblr_row_foot_box=\box67
+\l__tblr_row_head_foot_dim=\dimen262
+\lTblrTableWidthDim=\dimen263
+\l__tblr_table_firsthead_box=\box68
+\l__tblr_table_middlehead_box=\box69
+\l__tblr_table_lasthead_box=\box70
+\l__tblr_table_firstfoot_box=\box71
+\l__tblr_table_middlefoot_box=\box72
+\l__tblr_table_lastfoot_box=\box73
+\l__tblr_remain_height_dim=\dimen264
+\l__tblr_long_from_int=\count335
+\l__tblr_long_to_int=\count336
+\l__tblr_curr_i_int=\count337
+\l__tblr_prev_i_int=\count338
+\lTblrTablePageInt=\count339
+\l__tblr_table_head_box=\box74
+\l__tblr_table_foot_box=\box75
+\l__tblr_table_head_foot_dim=\dimen265
+\l__tblr_table_head_body_foot_dim=\dimen266
+\l__tblr_table_box=\box76
+\lTblrRowFirstInt=\count340
+\lTblrRowLastInt=\count341
+\l__tblr_table_hlines_box=\box77
+\l__tblr_hline_box=\box78
+\l__tblr_row_box=\box79
+\l__tblr_col_o_wd_dim=\dimen267
+\l__tblr_col_b_wd_dim=\dimen268
+\l__tblr_hline_leftskip_dim=\dimen269
+\l__tblr_hline_rightskip_dim=\dimen270
+\l__tblr_row_ht_dim=\dimen271
+\l__tblr_row_dp_dim=\dimen272
+\l__tblr_row_abovesep_dim=\dimen273
+\l__tblr_row_belowsep_dim=\dimen274
+\l__tblr_row_vlines_box=\box80
+\l__tblr_vline_box=\box81
+\l__tblr_cell_box=\box82
+\l__tblr_row_upper_dim=\dimen275
+\l__tblr_row_lower_dim=\dimen276
+\l__tblr_row_vpace_dim=\dimen277
+\l__tblr_vline_aboveskip_dim=\dimen278
+\l__tblr_vline_belowskip_dim=\dimen279
+\lTblrCellRowSpanInt=\count342
+\lTblrCellColSpanInt=\count343
+\l__tblr_cell_wd_dim=\dimen280
+\l__tblr_cell_ht_dim=\dimen281
+\lTblrCellAboveBorderWidthDim=\dimen282
+\lTblrCellBelowBorderWidthDim=\dimen283
+\lTblrCellLeftBorderWidthDim=\dimen284
+\lTblrCellRightBorderWidthDim=\dimen285
+\l__tblr_diag_box=\box83
+\l__tblr_cell_inner_wd_dim=\dimen286
+\l__tblr_cell_inner_dp_dim=\dimen287
+\l__tblr_cell_hanchor_dim=\dimen288
+\l__tblr_last_cell_table_ht_dim=\dimen289
+\l__tblr_last_cell_table_dp_dim=\dimen290
+\l__tblr_last_vline_wd_dim=\dimen291
+\l__tblr_tikz_node_box=\box84
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/minted/minted.sty
+Package: minted 2025/05/14 v3.7.0 Yet another Pygments shim for LaTeX
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/catchfile/catchfile.sty
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count344
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/fvextra/fvextra.sty
+Package: fvextra 2025/05/29 v1.13.2 fvextra - extensions and patches for fancyvrb
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2024/01/20 4.5c verbatim text (tvz,hv)
+\FV@CodeLineNo=\count345
+\FV@InFile=\read2
+\FV@TabBox=\box85
+\c@FancyVerbLine=\count346
+\FV@StepNumber=\count347
+\FV@OutFile=\write3
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/lineno/lineno.sty
+Package: lineno 2025/05/13 line numbers on paragraphs v5.5
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+\linenopenalty=\count348
+\output=\toks24
+\linenoprevgraf=\count349
+\linenumbersep=\dimen292
+\linenumberwidth=\dimen293
+\c@linenumber=\count350
+\c@pagewiselinenumber=\count351
+\c@LN@truepage=\count352
+\c@internallinenumber=\count353
+\c@internallinenumbers=\count354
+\quotelinenumbersep=\dimen294
+\bframerule=\dimen295
+\bframesep=\dimen296
+\bframebox=\box86
+\@LN@amsmath@ams@eqpen=\count355
+)
+\c@FancyVerbWriteLine=\count356
+\c@FancyVerbBufferLine=\count357
+\c@FV@TrueTabGroupLevel=\count358
+\c@FV@TrueTabCounter=\count359
+\FV@TabBox@Group=\box87
+\FV@bgcolorstructbox=\box88
+\FV@TmpLength=\skip59
+\c@FV@HighlightLinesStart=\count360
+\c@FV@HighlightLinesStop=\count361
+\FV@LoopCount=\count362
+\FV@NCharsBox=\box89
+\FV@BreakIndent=\dimen297
+\FV@BreakIndentNChars=\count363
+\FV@BreakSymbolSepLeft=\dimen298
+\FV@BreakSymbolSepLeftNChars=\count364
+\FV@BreakSymbolSepRight=\dimen299
+\FV@BreakSymbolSepRightNChars=\count365
+\FV@BreakSymbolIndentLeft=\dimen300
+\FV@BreakSymbolIndentLeftNChars=\count366
+\FV@BreakSymbolIndentRight=\dimen301
+\FV@BreakSymbolIndentRightNChars=\count367
+\c@FancyVerbLineBreakLast=\count368
+\FV@LineBox=\box90
+\FV@LineIndentBox=\box91
+\c@FV@BreakBufferDepth=\count369
+\FV@LineWidth=\dimen302
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/latex2pydata/latex2pydata.sty
+Package: latex2pydata 2025/03/26 v0.6.0 latex2pydata - write data to file in Python literal format
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/pgf/utilities/pgfkeys.sty (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks25
+\pgfkeys@temptoks=\toks26
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks27
+))) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/pgfopts/pgfopts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+\pgfopts@list@add@a@toks=\toks28
+\pgfopts@list@add@b@toks=\toks29
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/tools/shellesc.sty
+Package: shellesc 2023/07/08 v1.0d unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count370
+\float@exts=\toks30
+\float@box=\box92
+\@float@everytoks=\toks31
+\@floatcapt=\box93
+)
+\c@minted@FancyVerbLineTemp=\count371
+\@float@every@listing=\toks32
+\c@listing=\count372
+) (././preamble.sty (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+LaTeX Info: Redefining \{ on input line 27.
+LaTeX Info: Redefining \} on input line 28.
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/titling/titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip60
+\thanksmargin=\skip61
+\droptitle=\skip62
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/base/fontenc.sty
+Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/fouriernc/fouriernc.sty
+Package: fouriernc 2005/12/20 1.0 fouriernc package
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/fourier/fourier.sty
+Package: fourier 2024/09/08 2.4 fourier-GUTenberg package
+Now handling font encoding FML ...
+... no UTF-8 mapping file for font encoding FML
+Now handling font encoding FMS ...
+... no UTF-8 mapping file for font encoding FMS
+Now handling font encoding FMX ...
+... no UTF-8 mapping file for font encoding FMX
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/base/fontenc.sty
+Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+futs on input line 116.
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/fourier/t1futs.fd
+File: t1futs.fd 2004/03/02 Fontinst v1.926 font definitions for T1/futs.
+)) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/base/textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/fourier/fourier-orns.sty
+Package: fourier-orns 2024/09/08 2.4 fourier-ornaments package
+)
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 64.
+LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 64.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> T1/futs/m/n on input line 64.
+LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 64.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> T1/futs/m/n on input line 64.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  T1/futs/m/n --> T1/futs/b/n on input line 65.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 73.
+LaTeX Font Info:    Encoding `OML' has changed to `FML' for symbol font
+(Font)              `letters' in the math version `normal' on input line 73.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> FML/futmi/m/it on input line 73.
+LaTeX Font Info:    Encoding `OML' has changed to `FML' for symbol font
+(Font)              `letters' in the math version `bold' on input line 73.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> FML/futmi/m/it on input line 73.
+\symotherletters=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  FML/futmi/m/it --> FML/futmi/b/it on input line 75.
+LaTeX Font Info:    Overwriting symbol font `otherletters' in version `bold'
+(Font)                  FML/futm/m/it --> FML/futm/b/it on input line 76.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 78.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 79.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 80.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 83.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 86.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 87.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 127.
+LaTeX Font Info:    Encoding `OMS' has changed to `FMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 127.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> FMS/futm/m/n on input line 127.
+LaTeX Font Info:    Encoding `OMS' has changed to `FMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 127.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> FMS/futm/m/n on input line 127.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 128.
+LaTeX Font Info:    Encoding `OMX' has changed to `FMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 128.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> FMX/futm/m/n on input line 128.
+LaTeX Font Info:    Encoding `OMX' has changed to `FMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 128.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> FMX/futm/m/n on input line 128.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 129.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> T1/futs/bx/n on input line 129.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> T1/futs/bx/n on input line 129.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 130.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 131.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> T1/futs/m/it on input line 131.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> T1/futs/m/it on input line 131.
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 132.
+LaTeX Font Info:    Redeclaring math symbol \parallel on input line 148.
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 162.
+LaTeX Font Info:    Redeclaring math symbol \varkappa on input line 200.
+LaTeX Font Info:    Redeclaring math symbol \varvarrho on input line 201.
+LaTeX Font Info:    Redeclaring math delimiter \Vert on input line 224.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 229.
+LaTeX Font Info:    Redeclaring math delimiter \lvert on input line 231.
+LaTeX Font Info:    Redeclaring math delimiter \rvert on input line 233.
+LaTeX Font Info:    Redeclaring math delimiter \lVert on input line 235.
+LaTeX Font Info:    Redeclaring math delimiter \rVert on input line 237.
+LaTeX Font Info:    Redeclaring math delimiter \Downarrow on input line 239.
+LaTeX Font Info:    Redeclaring math delimiter \backslash on input line 241.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 243.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 245.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 247.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 249.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 251.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 253.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 255.
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 257.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 261.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 262.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 263.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 264.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 265.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 266.
+LaTeX Font Info:    Redeclaring math accent \check on input line 267.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 268.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 269.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 270.
+\symUfutm=\mathgroup5
+)
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 16.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  FML/futmi/m/it --> FML/fncmi/m/it on input line 16.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  FML/futmi/b/it --> FML/fncmi/m/it on input line 16.
+LaTeX Font Info:    Redeclaring symbol font `otherletters' on input line 17.
+LaTeX Font Info:    Overwriting symbol font `otherletters' in version `normal'
+(Font)                  FML/futm/m/it --> FML/fncm/m/it on input line 17.
+LaTeX Font Info:    Overwriting symbol font `otherletters' in version `bold'
+(Font)                  FML/futm/b/it --> FML/fncm/m/it on input line 17.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  FML/fncmi/m/it --> FML/fncmi/b/it on input line 18.
+LaTeX Font Info:    Overwriting symbol font `otherletters' in version `bold'
+(Font)                  FML/fncm/m/it --> FML/fncm/b/it on input line 19.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 32.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  T1/futs/m/n --> T1/fnc/m/n on input line 32.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  T1/futs/b/n --> T1/fnc/m/n on input line 32.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  T1/fnc/m/n --> T1/fnc/b/n on input line 33.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 34.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  FMS/futm/m/n --> FMS/fncm/m/n on input line 34.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  FMS/futm/m/n --> FMS/fncm/m/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  T1/futs/bx/n --> T1/fnc/b/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  T1/futs/bx/n --> T1/fnc/b/n on input line 35.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  T1/futs/m/n --> T1/fnc/m/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  T1/futs/m/n --> T1/fnc/m/n on input line 36.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  T1/futs/m/it --> T1/fnc/m/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  T1/futs/m/it --> T1/fnc/m/it on input line 37.
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 38.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `normal'
+(Font)                  FMS/futm/m/n --> FMS/fncm/m/n on input line 38.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `bold'
+(Font)                  FMS/futm/m/n --> FMS/fncm/m/n on input line 38.
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/sectsty/sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styles
+
+
+LaTeX Warning: Command \underbar  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \underline  has changed.
+               Check if current package is valid.
+
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+)
+\Gin@req@height=\dimen303
+\Gin@req@width=\dimen304
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup6
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \square on input line 141.
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+LaTeX Font Info:    Redeclaring math symbol \blacksquare on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \vDash on input line 60.
+LaTeX Font Info:    Redeclaring math symbol \leftleftarrows on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \rightrightarrows on input line 64.
+LaTeX Font Info:    Redeclaring math symbol \leqslant on input line 101.
+LaTeX Font Info:    Redeclaring math symbol \geqslant on input line 108.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleright on input line 120.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleleft on input line 121.
+LaTeX Font Info:    Redeclaring math symbol \complement on input line 165.
+LaTeX Font Info:    Redeclaring math symbol \intercal on input line 166.
+LaTeX Font Info:    Redeclaring math symbol \nleqslant on input line 181.
+LaTeX Font Info:    Redeclaring math symbol \ngeqslant on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \varsubsetneq on input line 203.
+LaTeX Font Info:    Redeclaring math symbol \subsetneqq on input line 207.
+LaTeX Font Info:    Redeclaring math symbol \nparallel on input line 215.
+LaTeX Font Info:    Redeclaring math symbol \nvDash on input line 221.
+LaTeX Font Info:    Redeclaring math symbol \nexists on input line 235.
+LaTeX Font Info:    Redeclaring math symbol \smallsetminus on input line 251.
+LaTeX Font Info:    Redeclaring math symbol \curvearrowleft on input line 257.
+LaTeX Font Info:    Redeclaring math symbol \curvearrowright on input line 258.
+LaTeX Font Info:    Redeclaring math symbol \varkappa on input line 260.
+LaTeX Font Info:    Redeclaring math symbol \hslash on input line 262.
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2025/06/04 version 6.6.0 text color boxes
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/pgf/frontendlayer/tikz.sty (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/pgf/basiclayer/pgf.sty (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/pgf/utilities/pgfrcs.sty (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks33
+\pgfutil@tempdima=\dimen305
+\pgfutil@tempdimb=\dimen306
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box94
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/utilities/pgfrcs.code.tex (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/pgf/basiclayer/pgfcore.sty (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/pgf/systemlayer/pgfsys.sty (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+\pgf@x=\dimen307
+\pgf@y=\dimen308
+\pgf@xa=\dimen309
+\pgf@ya=\dimen310
+\pgf@xb=\dimen311
+\pgf@yb=\dimen312
+\pgf@xc=\dimen313
+\pgf@yc=\dimen314
+\pgf@xd=\dimen315
+\pgf@yd=\dimen316
+\w@pgf@writea=\write4
+\r@pgf@reada=\read3
+\c@pgf@counta=\count373
+\c@pgf@countb=\count374
+\c@pgf@countc=\count375
+\c@pgf@countd=\count376
+\t@pgf@toka=\toks34
+\t@pgf@tokb=\toks35
+\t@pgf@tokc=\toks36
+\pgf@sys@id@count=\count377
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+))) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count378
+\pgfsyssoftpath@bigbuffer@items=\count379
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/math/pgfmath.code.tex (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/math/pgfmathutil.code.tex) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen317
+\pgfmath@count=\count380
+\pgfmath@box=\box95
+\pgfmath@toks=\toks37
+\pgfmath@stack@operand=\toks38
+\pgfmath@stack@operation=\toks39
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/math/pgfmathcalc.code.tex) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count381
+)) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/math/pgfint.code.tex) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen318
+\pgf@picmaxx=\dimen319
+\pgf@picminy=\dimen320
+\pgf@picmaxy=\dimen321
+\pgf@pathminx=\dimen322
+\pgf@pathmaxx=\dimen323
+\pgf@pathminy=\dimen324
+\pgf@pathmaxy=\dimen325
+\pgf@xx=\dimen326
+\pgf@xy=\dimen327
+\pgf@yx=\dimen328
+\pgf@yy=\dimen329
+\pgf@zx=\dimen330
+\pgf@zy=\dimen331
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen332
+\pgf@path@lasty=\dimen333
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen334
+\pgf@shorten@start@additional=\dimen335
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box96
+\pgf@hbox=\box97
+\pgf@layerbox@main=\box98
+\pgf@picture@serial@count=\count382
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen336
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen337
+\pgf@pt@y=\dimen338
+\pgf@pt@temp=\dimen339
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen340
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen341
+\pgf@sys@shading@range@num=\count383
+\pgf@shadingcount=\count384
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box99
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box100
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen342
+\pgf@nodesepend=\dimen343
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/pgf/utilities/pgffor.sty (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/pgf/math/pgfmath.sty (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/math/pgfmath.code.tex)) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen344
+\pgffor@skip=\dimen345
+\pgffor@stack=\toks40
+\pgffor@toks=\toks41
+)) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count385
+\pgfplotmarksize=\dimen346
+)
+\tikz@lastx=\dimen347
+\tikz@lasty=\dimen348
+\tikz@lastxsaved=\dimen349
+\tikz@lastysaved=\dimen350
+\tikz@lastmovetox=\dimen351
+\tikz@lastmovetoy=\dimen352
+\tikzleveldistance=\dimen353
+\tikzsiblingdistance=\dimen354
+\tikz@figbox=\box101
+\tikz@figbox@bg=\box102
+\tikz@tempbox=\box103
+\tikz@tempbox@bg=\box104
+\tikztreelevel=\count386
+\tikznumberofchildren=\count387
+\tikznumberofcurrentchild=\count388
+\tikz@fig@count=\count389
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count390
+\pgfmatrixcurrentcolumn=\count391
+\pgf@matrix@numberofcolumns=\count392
+)
+\tikz@expandcount=\count393
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/tools/verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks42
+\verbatim@line=\toks43
+\verbatim@in@stream=\read4
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box105
+\tcb@upperbox=\box106
+\tcb@lowerbox=\box107
+\tcb@phantombox=\box108
+\c@tcbbreakpart=\count394
+\c@tcblayer=\count395
+\c@tcolorbox@number=\count396
+\l__tcobox_tmpa_box=\box109
+\l__tcobox_tmpa_dim=\dimen355
+\tcb@temp=\box110
+\tcb@temp=\box111
+\tcb@temp=\box112
+\tcb@temp=\box113
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/tcolorbox/tcbskins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '6.6.0'
+(/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/tikzfill/tikzfill.image.sty
+Package: tikzfill.image 2023/08/08 v1.0.1 Image filling library for TikZ
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/tikzfill/tikzfill-common.sty
+Package: tikzfill-common 2023/08/08 v1.0.1 Auxiliary code for tikzfill
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/tikzfill/tikzlibraryfill.image.code.tex
+File: tikzlibraryfill.image.code.tex 2023/08/08 v1.0.1 Image filling library
+\l__tikzfill_img_box=\box114
+)) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.6.0'
+)) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/tcolorbox/tcbraster.code.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '6.6.0'
+\c@tcbrastercolumn=\count397
+\c@tcbrasterrow=\count398
+\c@tcbrasternum=\count399
+\c@tcbraster=\count400
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/tcolorbox/tcbbreakable.code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '6.6.0'
+(/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/pdfcol/pdfcol.sty
+Package: pdfcol 2022-09-21 v1.7 Handle new color stacks for pdfTeX (HO)
+)
+Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
+\tcb@testbox=\box115
+\tcb@totalupperbox=\box116
+\tcb@totallowerbox=\box117
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/tcolorbox/tcbhooks.code.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '6.6.0'
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/tcolorbox/tcbtheorems.code.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '6.6.0'
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/tcolorbox/tcbfitting.code.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '6.6.0'
+\tcbfitdim=\dimen356
+\tcb@lowerfitdim=\dimen357
+\tcb@upperfitdim=\dimen358
+\tcb@cur@hbadness=\count401
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/tcolorbox/tcblistingsutf8.code.tex
+Library (tcolorbox): 'tcblistingsutf8.code.tex' version '6.6.0'
+(/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/tcolorbox/tcblistings.code.tex
+Library (tcolorbox): 'tcblistings.code.tex' version '6.6.0'
+(/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/listings/listings.sty
+\lst@mode=\count402
+\lst@gtempboxa=\box118
+\lst@token=\toks44
+\lst@length=\count403
+\lst@currlwidth=\dimen359
+\lst@column=\count404
+\lst@pos=\count405
+\lst@lostspace=\dimen360
+\lst@width=\dimen361
+\lst@newlines=\count406
+\lst@lineno=\count407
+\lst@maxwidth=\dimen362
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/listings/lstpatch.sty
+File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
+\c@lstnumber=\count408
+\lst@skipnumbers=\count409
+\lst@framebox=\box119
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/listings/listings.cfg
+File: listings.cfg 2024/09/23 1.10c listings configuration
+))
+Package: listings 2024/09/23 1.10c (Carsten Heinz)
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/tcolorbox/tcblistingscore.code.tex
+Library (tcolorbox): 'tcblistingscore.code.tex' version '6.6.0'
+(/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/tcolorbox/tcbprocessing.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '6.6.0'
+)
+\c@tcblisting=\count410
+)) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/listingsutf8/listingsutf8.sty
+Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)))) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/tcolorbox/tcbexternal.code.tex
+Library (tcolorbox): 'tcbexternal.code.tex' version '6.6.0'
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/tcolorbox/tcbmagazine.code.tex
+Library (tcolorbox): 'tcbmagazine.code.tex' version '6.6.0'
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/tcolorbox/tcbvignette.code.tex
+Library (tcolorbox): 'tcbvignette.code.tex' version '6.6.0'
+(/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
+File: pgflibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/tcolorbox/tcbposter.code.tex
+Library (tcolorbox): 'tcbposter.code.tex' version '6.6.0'
+)) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen363
+\ESO@tempdimb=\dimen364
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/pgf-blur/tikzlibraryshadows.blur.code.tex  v1.02, 2012/12/09 (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshadows.code.tex
+File: tikzlibraryshadows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+\pgfbs@fading@count=\count411
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryangles.code.tex
+File: tikzlibraryangles.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryquotes.code.tex
+File: tikzlibraryquotes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary3d.code.tex
+File: tikzlibrary3d.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+LaTeX Font Info:    Trying to load font information for T1+fnc on input line 97.
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/fouriernc/t1fnc.fd
+File: t1fnc.fd 2005/12/13 scaled font definitions for T1/fnc.
+)
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 9.29993pt on input line 97.
+ (./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for FML/fncmi/m/it on input line 97.
+LaTeX Font Info:    Trying to load font information for FML+fncmi on input line 97.
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/fouriernc/fmlfncmi.fd
+File: fmlfncmi.fd 2005/12/20 Fontinst v1.928 font definitions for FML/fncmi.
+)
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for FMS/fncm/m/n on input line 97.
+LaTeX Font Info:    Trying to load font information for FMS+fncm on input line 97.
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/fouriernc/fmsfncm.fd
+File: fmsfncm.fd 2005/12/20 Fontinst v1.928 font definitions for FMS/fncm.
+)
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 97.
+LaTeX Font Info:    Trying to load font information for FMX+futm on input line 97.
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/fourier/fmxfutm.fd
+File: fmxfutm.fd futm-extension
+)
+LaTeX Font Info:    ... okay on input line 97.
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count412
+\scratchdimen=\dimen365
+\scratchbox=\box120
+\nofMPsegments=\count413
+\nofMParguments=\count414
+\everyMPshowfont=\toks45
+\MPscratchCnt=\count415
+\MPscratchDim=\dimen366
+\MPnumerator=\count416
+\makeMPintoPDFobject=\count417
+\everyMPtoPDFconversion=\toks46
+) (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 97.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 97.
+\c@lstlisting=\count418
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks47
+\inpenc@posthook=\toks48
+)
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 16.07027pt on input line 99.
+LaTeX Font Info:    Font shape `T1/fnc/b/n' will be
+(Font)              scaled to size 16.07027pt on input line 99.
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 11.15991pt on input line 99.
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 8.36993pt on input line 99.
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 6.50995pt on input line 99.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 11.03998pt on input line 99.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 99.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 6.43999pt on input line 99.
+LaTeX Font Info:    Trying to load font information for FML+fncm on input line 99.
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/fouriernc/fmlfncm.fd
+File: fmlfncm.fd 2005/12/20 Fontinst v1.928 font definitions for FML/fncm.
+)
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 11.03998pt on input line 99.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 99.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 6.43999pt on input line 99.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 99.
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 99.
+ (/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 13.39188pt on input line 101.
+LaTeX Font Info:    Font shape `T1/fnc/b/n' will be
+(Font)              scaled to size 13.39188pt on input line 101.
+LaTeX Font Info:    Font shape `T1/fnc/m/it' will be
+(Font)              scaled to size 9.29993pt on input line 103.
+LaTeX Font Info:    Font shape `T1/fnc/b/n' will be
+(Font)              scaled to size 9.29993pt on input line 109.
+
+Underfull \hbox (badness 2126) in paragraph at lines 124--124
+[]\T1/fnc/b/n/14.4 Agent func-tions vs agent pro-
+ []
+
+
+
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 7.06795pt on input line 136.
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 5.57996pt on input line 136.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 9.19998pt on input line 136.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 6.99199pt on input line 136.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 136.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 9.19998pt on input line 136.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 6.99199pt on input line 136.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 136.
+<images/imageb.png, id=41, 90.3375pt x 90.3375pt>
+File: images/imageb.png Graphic file (type png)
+<use images/imageb.png>
+Package pdftex.def Info: images/imageb.png  used on input line 141.
+(pdftex.def)             Requested size: 17.07164pt x 17.07056pt.
+
+
+[1{/nix/store/qmzwff5xfj5p0939x57r6zdcwmns5hsa-texlive-2025-env/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/fonts/enc/dvips/base/8r.enc}
+
+
+{/nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/fonts/enc/dvips/cm-super/cm-super-t1.enc} <./images/imageb.png>]
+runsystem(latexminted cleantemp  --timestamp 20251028152043 FAD58DE7366495DB4650CFEFAC2FCD61)...executed safely (allowed).
+
+ (./main.aux)
+ ***********
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-06-09>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 29464 strings out of 467890
+ 682561 string characters out of 5410143
+ 1191706 words of memory out of 5000000
+ 57492 multiletter control sequences out of 15000+600000
+ 672170 words of font info for 115 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 95i,8n,101p,522b,950s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/fonts/type1/public/fourier/fourier-mex.pfb></nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/fonts/type1/public/fourier/fourier-ms.pfb></nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/fonts/type1/public/cm-super/sftt1000.pfb></nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/fonts/type1/urw/ncntrsbk/uncb8a.pfb></nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/fonts/type1/urw/ncntrsbk/uncr8a.pfb></nix/store/46ijisvi9d4k5mxjq6w1lhn9cb12a7v8-texlive-2025-env-texmfdist/fonts/type1/urw/ncntrsbk/uncri8a.pfb>
+Output written on main.pdf (1 page, 72351 bytes).
+PDF statistics:
+ 82 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 162 words of extra memory for PDF output out of 10000 (max. 10000000)
+

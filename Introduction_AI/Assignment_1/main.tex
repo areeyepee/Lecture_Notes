@@ -1,0 +1,143 @@
+\documentclass[twocolumn]{article}
+
+\usepackage{import}
+\usepackage{xcolor}
+\usepackage{cancel}
+\usepackage{mathtools}
+
+\usepackage{enumitem}
+\usepackage{booktabs}
+\usepackage{tabularray}
+\usepackage{minted}
+
+% Colors
+
+\definecolor{yorhabg}{HTML}{131314}
+\definecolor{yorhafg}{HTML}{C9C7CD}
+\definecolor{yorhagrid}{HTML}{B5AF9C}
+\definecolor{mred}{HTML}{D67069}
+\definecolor{mblue}{HTML}{6887A1}
+
+\pagecolor{yorhabg}
+\color{yorhafg}
+
+%Importing the Preamble
+\import{./}{preamble.sty}
+
+% Removes padding above title
+\usepackage{titling}
+\setlength{\droptitle}{-10em}
+
+% Font package
+\usepackage[T1]{fontenc}
+
+\usepackage{fouriernc}
+
+\usepackage{sectsty}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[skins, most]{tcolorbox}
+
+\DeclareMathOperator{\sgn}{sgn}
+
+\usepackage{tikz}
+\usepackage{eso-pic}
+\usetikzlibrary{calc,shadows.blur}
+\usetikzlibrary{angles, quotes}
+\usetikzlibrary{3d}
+
+% Margins
+\topmargin=0in
+\evensidemargin=0in
+\oddsidemargin=0in
+\textwidth=6.5in
+\textheight=9.0in
+\headsep=0.25in
+
+\AtBeginEnvironment{tcolorbox}{\small}
+
+\newtcolorbox{imp}{enhanced,arc=0mm,colback=yorhabg,colframe=mred,leftrule=10mm,coltext=yorhafg,%
+overlay={\node[anchor=west,outer sep=2pt] at (frame.west) {\includegraphics[width=6mm]{images/imageb.png}}; }}
+
+\newtcolorbox{shortcut}{enhanced,arc=0mm,colback=yorhabg,colframe=mred,leftrule=10mm,coltext=yorhafg, coltitle=yorhabg, title=\texttt{Shortcut.},
+overlay={\node[anchor=west,outer sep=2pt] at (frame.west) {\includegraphics[width=6mm]{images/imageb.png}}; }}
+
+\newtcolorbox{question}{
+  enhanced,
+  colback=yorhabg,
+  colframe=mblue,
+  coltext=yorhafg,
+  coltitle=yorhabg,
+  attach boxed title to top left={yshift*=-\tcboxedtitleheight},
+  title=\texttt{Question.},
+  boxed title size=title,
+  boxed title style={%
+    rounded corners=northeast,
+    rounded corners=northwest,
+    colback=tcbcolframe,
+    boxrule=0pt,
+  },
+  underlay boxed title={%
+    \path[fill=tcbcolframe] (title.south west)--(title.south east)
+    to[out=0, in=180] ([xshift=5mm]title.east)--
+    (title.center-|frame.east)
+    [rounded corners=5pt] |-
+    (frame.north) -| cycle;
+  },
+}
+
+\newcommand\bb[1]{\textcolor{yorhafg}{\textbf{#1}}}
+
+\title{\textbf{Latex-Template}}
+\author{ Raphael Pertler }
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section*{True or False}
+\begin{enumerate}[label= \emph{\alph*}]
+  \item An agent with noncomplete information about the state, can be rational, but will be not very effective.
+  \item
+\end{enumerate}
+
+\section*{Describing Environment Properties of Agents}
+\begin{enumerate}[label=\emph{\alph*)}]
+\item \textbf{Task Environment: Cooking Robot.} \\
+  With PEAS we can describe our environment. \\
+  \textbf{Performance Measure} would consist of the correct application of a recipe, the taste of the cooked meal, as little wasted resources as possible and the time it takes to finish. \\
+  \textbf{Environment} kitchen with oven,fridge,pantry, stove , etc. \\
+  \textbf{Actuators} would be a humanoid robot. \\
+  \textbf{Sensors} need to be visual to check certain properties of food, gyrometers and other sensors for determining its own position, and some way to receive feedback about its meals e.g(touchscreen or microphones).
+\item  \textbf{Observability} depends on the amount of sensors and their placement. In this example we choose a partially observable environment, because if we imagine a humanoid android with only its onboard sensors, the state could change if, for example, somebody took something out of the fridge and therefore changes the given state. The Agent will only notice this after checking the fridge again.
+\item The environment would only have a single agent that is cooking.
+\item It would be stochastic, because kitchen appliances could have failures and food is inherantly not always the same e.g.(food can be a different age or shape).
+\item The next step of the agent is mostly reliant on the previous actions it took to finish a recipe. Therefore it would be sequential.
+\item Because of the inherent aspect of timing associated with cooking the environment would obviously be dynamic.
+\item Continuous
+
+\end{enumerate}
+
+\section*{Agent functions vs agent programs}
+\begin{enumerate}[label=\emph{\alph*}]
+\item
+\end{enumerate}
+
+\section*{Two friends}
+
+\subsubsection*{State Space}
+
+\section*{Binary Tree traversals}
+
+\section*{Graph traversals}
+$\boxed{\int_{0}^{y} e^{x*y}}$
+
+\begin{shortcut}
+This is the Shortcut Box.
+It is basically identical to the "imp" Box.
+\end{shortcut}
+Hello World!
+\end{document}
